@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 // respond to request
 // read data from file and send it back to the client
 // 1. load http module
